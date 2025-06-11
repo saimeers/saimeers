@@ -1,12 +1,12 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="40px" /> Hello, I’m Saimeers </h1>
 <p align="center">🇨🇴 <strong>Saimer Adrián Saavedra</strong> | 🖥️ <strong>Full-Stack Web Developer</strong></p>
 
----
-
-🎓 I’m currently a Systems Engineering student  
-👨‍💻 Passionate about web programming, especially Frontend development  
-🎨 I enjoy UI/UX design  
-💡 I love turning my knowledge into real-world solutions
+🎓 Systems Engineering student at Universidad Francisco de Paula Santander  
+👨‍💻 Passionate about web development, with a focus on Frontend technologies  
+🎨 Enthusiastic about crafting intuitive and clean UI/UX experiences  
+🔬 Actively involved in academic research — using tools like Scopus to explore high-impact publications  
+📊 Interested in bibliometric analysis — leveraging platforms like Tree of Science for research trends and mapping knowledge  
+💡 Driven to transform knowledge into impactful, real-world software solutions
 
 ---
 
@@ -59,8 +59,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimer-adrian-saavedra-a75803317/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saimers_/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@saimersr)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@saimersr)  
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--7851--9772-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-7851-9772)
 
 ---
 
 <p align="center">✨ Thanks for stopping by! Always open to learn, collaborate, and build.</p>
+
