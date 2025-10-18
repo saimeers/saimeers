@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="40px" /> Hello, I'm Saimeers </h1>
-<p align="center">🇨🇴 <strong>Saimer Adrián Saavedra</strong> | 🖥️ <strong>Full-Stack Web Developer</strong></p>
+<p align="center">🇨🇴 <strong>Saimer Adrián Saavedra</strong> | 🖥️ <strong>Developer</strong></p>
 
 🎓 Systems Engineering student at Universidad Francisco de Paula Santander  
 👨‍💻 Passionate about web development, with a focus on Frontend technologies  
