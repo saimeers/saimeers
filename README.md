@@ -40,13 +40,24 @@ I'm **Saimer Saavedra**. I focus on building functional and scalable software so
 ### 📊 Stats & Activity
 
 <p align="center">
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saimeers&theme=buefy)
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saimeers&theme=nord_dark"
+    alt="Profile Details"
+    style="max-width: 100%; height: auto;"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimeers&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saimeers&theme=tokyonight" alt="GitHub Streak" />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saimeers&theme=nord_dark"
+    width="45%"
+    alt="Stats"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saimeers&theme=nord_dark"
+    width="45%"
+    alt="Top Languages"
+  />
 </p>
 
 ---
