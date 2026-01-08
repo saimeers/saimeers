@@ -40,7 +40,7 @@ I'm **Saimer Saavedra**. I focus on building functional and scalable software so
 ### 📊 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimeers&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true" alt="GitHub Stats" />
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saimeers&theme=buefy)
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimeers&layout=compact&theme=tokyonight" alt="Top Languages" />
