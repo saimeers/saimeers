@@ -23,13 +23,15 @@ I'm **Saimer Saavedra**. I focus on building functional and scalable software so
 
 ### 📂 Featured Projects
 
-- 📱 **[PreSaber App](https://github.com/saimeers/presaber-app/releases/tag/v0.1.0)** **Role: Full Stack Mobile.** Developed the Android application and backend services using **Kotlin**.
+- 👤 **[Personal Portfolio](https://saimers.dev)** **Role: Creator.** Built the entire site with **Astro & React** and configured **Cloudflare** deployment.
 
-- 🚀 **[Personal Portfolio](https://saimers.dev)** **Role: Creator.** Built the entire site with **Astro & React** and configured **Cloudflare** deployment.
-
-- 🧾 **[Pharmacy FE](https://www.drogueriane.site/)** **Role: Frontend.** Developed the user interface and client integration using **React + shadcn**.
+- 🚀 **[Gameploy](https://gameploy.saimers.dev)** **Role: Full Stack.** Built the **React and Tailwind** frontend and implemented the **Express + Firebase + S3** backend.
 
 - 📚 **[SisHub](https://sishub.saimers.dev)** **Role: Full Stack.** Built the **React** frontend and implemented the **Express + Firebase** backend.
+
+- 📱 **[PreSaber App](https://github.com/saimeers/presaber-app/releases/tag/v0.1.0)** **Role: Full Stack Mobile.** Developed the Android application and backend services using **Kotlin**.
+
+- 🧾 **[Pharmacy FE](https://www.drogueriane.site/)** **Role: Frontend.** Developed the user interface and client integration using **React + shadcn**.
 
 - 📈 **[Forecasting API](https://github.com/saimeers/forecasting-api)** **Role: Backend.+** Developed the microservice and prediction models using **FastAPI**.
 
